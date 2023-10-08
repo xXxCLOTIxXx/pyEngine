@@ -24,8 +24,6 @@ class Engine(Screen):
 
 
 
-	def set_background_color()
-
 
 	def register_function(self, type: str = FUNC_WHILE_RUNNING):
 		def register(function):
