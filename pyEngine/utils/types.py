@@ -1,0 +1,12 @@
+FUNC_BEFORE_RUNNING = "before_running"
+FUNC_WHILE_RUNNING = "while_running"
+ON_CHANGE_DISPLAY_MODE = "change_screen_mode"
+ON_QUIT_PROGRAM = "on_exit"
+
+
+__all__ = (
+FUNC_BEFORE_RUNNING,
+FUNC_WHILE_RUNNING,
+ON_CHANGE_DISPLAY_MODE,
+ON_QUIT_PROGRAM
+)
